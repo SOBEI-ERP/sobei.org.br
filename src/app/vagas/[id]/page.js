@@ -21,6 +21,67 @@ const CONTRATO_LABELS = {
   temporario: 'Temporário',
 };
 
+function FormattedSectionContent({ text }) {
+  if (!text) return null;
+
+  const lines = text
+    .split(/\r?\n/)
+    .map(l => l.trim())
+    .filter(Boolean);
+
+  const isBenefitsList = lines.some(line => 
+    /^([\uD800-\uDBFF][\uDC00-\uDFFF]|[\u2600-\u27BF]|\uD83C[\uDF00-\uDFFF]|\uD83D[\uDC00-\uDE4F]|\uD83E[\uDD00-\uDFFF])/.test(line)
+  );
+
+  return (
+    <div className={isBenefitsList ? "vaga-benefits-grid" : "vaga-section__content"}>
+      {lines.map((line, idx) => {
+        // Emoji match (ex: 💵, 🚌, 🍱, 🛒, 🩺)
+        const emojiMatch = line.match(/^([\uD800-\uDBFF][\uDC00-\uDFFF]|[\u2600-\u27BF]|\uD83C[\uDF00-\uDFFF]|\uD83D[\uDC00-\uDE4F]|\uD83E[\uDD00-\uDFFF])\s*(.*)$/);
+        if (emojiMatch) {
+          const emoji = emojiMatch[1];
+          const content = emojiMatch[2];
+          return (
+            <div key={idx} className="vaga-benefit-item">
+              <span className="vaga-benefit-icon" aria-hidden="true">{emoji}</span>
+              <span className="vaga-benefit-text">{content}</span>
+            </div>
+          );
+        }
+
+        // Formato "Rótulo: Conteúdo"
+        const colonIdx = line.indexOf(':');
+        const hasLabel = colonIdx > 0 && colonIdx < 45 && !line.startsWith('http');
+
+        if (hasLabel) {
+          const label = line.slice(0, colonIdx + 1);
+          const detail = line.slice(colonIdx + 1).trim();
+          return (
+            <div key={idx} className="vaga-item-row">
+              <span className="vaga-item-bullet" aria-hidden="true">•</span>
+              <div className="vaga-item-text">
+                <strong className="vaga-item-label">{label}</strong>{' '}
+                <span className="vaga-item-detail">{detail}</span>
+              </div>
+            </div>
+          );
+        }
+
+        // Tópico com traço ou bullet
+        const isBullet = line.startsWith('- ') || line.startsWith('• ') || line.startsWith('* ');
+        const cleanLine = isBullet ? line.slice(2).trim() : line;
+
+        return (
+          <p key={idx} className={isBullet ? "vaga-bullet-line" : "vaga-paragraph"}>
+            {isBullet && <span className="vaga-item-bullet" aria-hidden="true">•</span>}
+            <span>{cleanLine}</span>
+          </p>
+        );
+      })}
+    </div>
+  );
+}
+
 export default function VagaDetalhePage() {
   const params = useParams();
   const id = params ? parseInt(params.id) : null;
@@ -232,17 +293,24 @@ export default function VagaDetalhePage() {
           {/* Details Column */}
           <div className="vaga-info-col">
             <div className="vaga-card">
-              <h2 className="vaga-card__title">Descrição da Vaga</h2>
-              <p className="vaga-card__text" style={{ whiteSpace: 'pre-wrap' }}>{vaga.descricao}</p>
+              {/* Seção 1: Descrição da Vaga */}
+              <div className="vaga-section">
+                <h2 className="vaga-section__title">Descrição da Vaga</h2>
+                <FormattedSectionContent text={vaga.descricao} />
+              </div>
               
-              <h3 className="vaga-card__subtitle">Requisitos e Qualificações</h3>
-              <p className="vaga-card__text" style={{ whiteSpace: 'pre-wrap' }}>{vaga.requisitos}</p>
+              {/* Seção 2: Requisitos e Qualificações */}
+              <div className={`vaga-section ${!vaga.beneficios ? 'vaga-section--last' : ''}`}>
+                <h3 className="vaga-section__title">Requisitos e Qualificações</h3>
+                <FormattedSectionContent text={vaga.requisitos} />
+              </div>
 
+              {/* Seção 3: Benefícios oferecidos */}
               {vaga.beneficios && (
-                <>
-                  <h3 className="vaga-card__subtitle">Benefícios oferecidos</h3>
-                  <p className="vaga-card__text" style={{ whiteSpace: 'pre-wrap' }}>{vaga.beneficios}</p>
-                </>
+                <div className="vaga-section vaga-section--last">
+                  <h3 className="vaga-section__title">Benefícios oferecidos</h3>
+                  <FormattedSectionContent text={vaga.beneficios} />
+                </div>
               )}
             </div>
           </div>

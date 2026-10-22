@@ -166,18 +166,14 @@ export default function ContactForm({ unitTitle = 'SOBEI' }) {
 
       <div style={{
         marginTop: '20px',
-        padding: '14px 16px',
-        backgroundColor: '#ffffff',
-        border: '1px solid #e5e7eb',
-        borderRadius: '8px',
         display: 'flex',
         alignItems: 'flex-start',
-        gap: '12px',
-        fontSize: '13px',
-        lineHeight: '1.5',
-        color: '#000000'
+        gap: '10px',
+        fontSize: '13.5px',
+        lineHeight: '1.6',
+        color: '#1f2937'
       }}>
-        <IconInfo size={20} style={{ color: '#dc2626', marginTop: '2px', flexShrink: 0 }} />
+        <IconInfo size={18} style={{ color: '#dc2626', marginTop: '3px', flexShrink: 0 }} />
         <div>
           <strong style={{ color: '#dc2626' }}>Atenção:</strong> Este formulário pode ser utilizado para comunicação com a equipe da unidade ou tirar dúvidas. <strong>Não utilize este formulário para candidatar-se a vagas de emprego</strong> — para enviar seu currículo profissional, acesse a nossa página de <Link href="/vagas" style={{ color: '#000000', fontWeight: 'bold', textDecoration: 'underline' }}>Trabalhe Conosco / Vagas</Link>.
         </div>

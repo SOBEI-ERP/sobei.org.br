@@ -2,7 +2,7 @@
 
 import React, { Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import VacantImage from '@/components/VacantImage';
+import UnitNotebookSheet from '@/components/UnitNotebookSheet';
 import { unitsData } from '@/lib/data';
 import ContactForm from '@/components/ContactForm';
 
@@ -23,18 +23,27 @@ function UnitsContent() {
           <main className="unit-detail fade-in" key={activeId}>
             <div className="unit-detail__header-grid">
               
-              {/* Left Column: Photo */}
-              <div className="unit-detail__image-wrapper">
-                <VacantImage
-                  src={unit.image}
-                  alt={unit.name}
-                  className="unit-detail__image"
-                />
-              </div>
+              {/* Left Column: Folha de Caderno Amarelada com Nome em Lápis e Foto da Unidade */}
+              <UnitNotebookSheet
+                unitName={unit.name}
+                imageSrc={unit.image}
+                priority={true}
+              />
 
               {/* Right Column: Details Info */}
-              <div className="unit-detail__info-column">
-                <h2 className="unit-detail__title">{unit.name}</h2>
+              <div className="unit-detail__info-column unit-detail__info-column--cut">
+                {/* Símbolo de tesoura cortando a linha pontilhada */}
+                <div className="unit-detail__cut-scissors" aria-hidden="true" title="Recorte aqui">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="6" cy="6" r="3" />
+                    <circle cx="6" cy="18" r="3" />
+                    <line x1="20" y1="4" x2="8.12" y2="15.88" />
+                    <line x1="14.47" y1="14.48" x2="20" y2="20" />
+                    <line x1="8.12" y1="8.12" x2="12" y2="12" />
+                  </svg>
+                </div>
+
+                <h2 className="unit-detail__title">Onde estamos:</h2>
                 
                 <div className="unit-detail__info-list">
                   <div className="unit-detail__info-item">

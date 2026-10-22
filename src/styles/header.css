@@ -5,6 +5,18 @@
   z-index: 1000;
   box-shadow: var(--shadow-md);
   user-select: none;
+  border-bottom-left-radius: var(--radius-3xl, 24px);
+  border-bottom-right-radius: var(--radius-3xl, 24px);
+  transition: border-bottom-left-radius var(--transition-base),
+              border-bottom-right-radius var(--transition-base);
+}
+
+.header--dropdown-active,
+.header--mobile-open,
+.header:has(.header__dropdown--active),
+.header:has(.header__nav--mobile-open) {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 .header__container {
@@ -191,6 +203,8 @@
   border-top: none;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   z-index: 99;
+  border-bottom-left-radius: var(--radius-3xl, 24px);
+  border-bottom-right-radius: var(--radius-3xl, 24px);
 
   opacity: 0;
   visibility: hidden;
@@ -342,6 +356,12 @@
 }
 
 @media (max-width: 768px) {
+  /* No mobile, o header fechado SEMPRE tem cantos arredondados, independente de dropdowns desktop */
+  .header:not(.header--mobile-open) {
+    border-bottom-left-radius: var(--radius-3xl, 24px) !important;
+    border-bottom-right-radius: var(--radius-3xl, 24px) !important;
+  }
+
   .header__container {
     padding: 0 var(--spacing-lg);
   }
@@ -369,10 +389,13 @@
     height: auto;
     max-height: 80vh;
     overflow-y: auto;
+    border-bottom-left-radius: var(--radius-3xl, 24px);
+    border-bottom-right-radius: var(--radius-3xl, 24px);
     
     /* Smooth transition */
     opacity: 0;
     visibility: hidden;
+    pointer-events: none;
     transform: translateY(-15px);
     transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
                 transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
@@ -383,6 +406,7 @@
   .header__nav--mobile-open {
     opacity: 1;
     visibility: visible;
+    pointer-events: auto;
     transform: translateY(0);
   }
 
