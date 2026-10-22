@@ -639,8 +639,10 @@
 /* Custom Vagas Hero Modifier (Desktop) */
 .page-hero--vagas {
   position: relative;
-  height: calc(100vh - var(--header-height));
-  min-height: calc(100vh - var(--header-height));
+  margin-top: calc(-1 * var(--radius-3xl, 24px));
+  padding-top: var(--radius-3xl, 24px);
+  height: calc(100vh - var(--header-height) + var(--radius-3xl, 24px));
+  min-height: calc(100vh - var(--header-height) + var(--radius-3xl, 24px));
   background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)), url('/images/telecentro-inclusao.avif');
   background-size: cover;
   background-position: center;
@@ -763,8 +765,9 @@
 
   .page-hero--vagas {
     height: auto;
-    min-height: calc(85vh - var(--header-height));
-    padding: 4rem 0 3.5rem;
+    min-height: calc(85vh - var(--header-height) + var(--radius-3xl, 24px));
+    margin-top: calc(-1 * var(--radius-3xl, 24px));
+    padding: calc(4rem + var(--radius-3xl, 24px)) 0 3.5rem;
   }
   
   .page-hero__pretitle {
@@ -799,7 +802,8 @@
   }
 
   .page-hero--vagas {
-    padding: 3.5rem 0 3rem;
+    margin-top: calc(-1 * var(--radius-3xl, 24px));
+    padding: calc(3.5rem + var(--radius-3xl, 24px)) 0 3rem;
   }
 
   .page-hero__pretitle {
@@ -914,32 +918,128 @@
   box-shadow: none;
 }
 
-.vaga-card__title {
-  font-size: var(--font-size-xl);
-  color: var(--color-primary);
-  font-weight: var(--font-weight-bold);
-  margin-bottom: var(--spacing-lg);
-  position: relative;
-  padding-bottom: var(--spacing-xs);
+/* Seções Separadas por Leve Linha Divisória */
+.vaga-section {
+  padding-bottom: 2.25rem;
+  margin-bottom: 2.25rem;
+  border-bottom: 1px solid #e5e7eb;
 }
 
-.vaga-card__title::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 50px;
-  height: 3px;
-  background-color: var(--color-accent);
-  border-radius: var(--radius-sm);
+.vaga-section--last {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.vaga-section__title,
+.vaga-card__title {
+  font-size: clamp(1.4rem, 2.2vw, 1.625rem);
+  color: var(--color-black, #111827);
+  font-weight: 800;
+  margin: 0 0 1.25rem 0;
+  letter-spacing: -0.4px;
 }
 
 .vaga-card__subtitle {
-  font-size: var(--font-size-md);
-  color: var(--color-primary);
-  font-weight: var(--font-weight-bold);
-  margin-top: var(--spacing-xl);
-  margin-bottom: var(--spacing-md);
+  font-size: clamp(1.2rem, 1.8vw, 1.35rem);
+  color: var(--color-black, #111827);
+  font-weight: 800;
+  margin: 0 0 1.25rem 0;
+  letter-spacing: -0.3px;
+}
+
+/* Conteúdo Formatado da Vaga */
+.vaga-section__content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.95rem;
+}
+
+.vaga-paragraph {
+  font-size: 1.0625rem;
+  color: #374151;
+  line-height: 1.8;
+  margin: 0;
+}
+
+.vaga-item-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  line-height: 1.75;
+  font-size: 1rem;
+}
+
+.vaga-item-bullet {
+  color: var(--color-primary, #1B1464);
+  font-size: 1.25rem;
+  line-height: 1.3;
+  flex-shrink: 0;
+}
+
+.vaga-item-text {
+  flex: 1;
+}
+
+.vaga-item-label {
+  color: var(--color-black, #111827);
+  font-weight: 700;
+}
+
+.vaga-item-detail {
+  color: #4b5563;
+}
+
+.vaga-bullet-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 1rem;
+  color: #4b5563;
+  line-height: 1.75;
+  margin: 0;
+}
+
+/* Cards Elegantes de Benefícios */
+.vaga-benefits-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+.vaga-benefit-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 16px;
+  background-color: #f9fafb;
+  border: 1px solid #f3f4f6;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.vaga-benefit-item:hover {
+  background-color: #f3f4f6;
+  border-color: #e5e7eb;
+}
+
+.vaga-benefit-icon {
+  font-size: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  flex-shrink: 0;
+}
+
+.vaga-benefit-text {
+  font-size: 0.975rem;
+  font-weight: 500;
+  color: #1f2937;
 }
 
 .vaga-card__text {

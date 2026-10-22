@@ -13,11 +13,16 @@ export default function Header() {
 
 
 
-  // Handle clicking outside to close dropdowns
+  const closeAllMenus = () => {
+    setActiveDropdown(null);
+    setIsMobileMenuOpen(false);
+  };
+
+  // Handle clicking outside to close dropdowns and mobile menu
   useEffect(() => {
     function handleClickOutside(event) {
       if (headerRef.current && !headerRef.current.contains(event.target)) {
-        setActiveDropdown(null);
+        closeAllMenus();
       }
     }
     document.addEventListener('mousedown', handleClickOutside);
@@ -31,8 +36,7 @@ export default function Header() {
     let active = true;
     Promise.resolve().then(() => {
       if (active) {
-        setActiveDropdown(null);
-        setIsMobileMenuOpen(false);
+        closeAllMenus();
       }
     });
     return () => {
@@ -64,11 +68,14 @@ export default function Header() {
   };
 
   return (
-    <header className="header" ref={headerRef}>
+    <header
+      className={`header ${activeDropdown ? 'header--dropdown-active' : ''} ${isMobileMenuOpen ? 'header--mobile-open' : ''}`}
+      ref={headerRef}
+    >
       <div className="header__container">
 
         {/* Logo */}
-        <Link href="/" className="header__logo">
+        <Link href="/" className="header__logo" onClick={closeAllMenus}>
           <Image
             src="/images/logo-header.webp"
             alt="SOBEI Logo"
@@ -89,14 +96,14 @@ export default function Header() {
 
             {/* Mobile CTA inside nav */}
             <li className="header__nav-item header__nav-item--mobile-cta">
-              <Link href="/vagas" className="header__btn" onClick={() => setIsMobileMenuOpen(false)}>
+              <Link href="/vagas" className="header__btn" onClick={closeAllMenus}>
                 Trabalhe conosco
               </Link>
             </li>
 
             {/* Sobre a Sobei Link */}
             <li className="header__nav-item">
-              <Link href="/" className="header__nav-link" onClick={() => setIsMobileMenuOpen(false)}>
+              <Link href="/" className="header__nav-link" onClick={closeAllMenus}>
                 Sobre a Sobei
               </Link>
             </li>
@@ -121,11 +128,11 @@ export default function Header() {
               {/* Mobile inline dropdown for projects */}
               {activeDropdown === 'projects' && (
                 <ul className="header__mobile-dropdown" id="dropdown-projects-mobile">
-                  <li><Link href="/projetos?id=ccinter" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>CCINTER</Link></li>
-                  <li><Link href="/projetos?id=cedesp" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>CEDESP</Link></li>
-                  <li><Link href="/projetos?id=nci-imbuias" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>NCI</Link></li>
-                  <li><Link href="/projetos?id=orquestra" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Orquestra Jovem</Link></li>
-                  <li><Link href="/projetos?id=telecentro" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Telecentro</Link></li>
+                  <li><Link href="/projetos?id=ccinter" className="header__mobile-dropdown-link" onClick={closeAllMenus}>CCINTER</Link></li>
+                  <li><Link href="/projetos?id=cedesp" className="header__mobile-dropdown-link" onClick={closeAllMenus}>CEDESP</Link></li>
+                  <li><Link href="/projetos?id=nci-imbuias" className="header__mobile-dropdown-link" onClick={closeAllMenus}>NCI</Link></li>
+                  <li><Link href="/projetos?id=orquestra" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Orquestra Jovem</Link></li>
+                  <li><Link href="/projetos?id=telecentro" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Telecentro</Link></li>
                 </ul>
               )}
             </li>
@@ -150,19 +157,19 @@ export default function Header() {
               {/* Mobile inline dropdown for units */}
               {activeDropdown === 'units' && (
                 <ul className="header__mobile-dropdown" id="dropdown-units-mobile">
-                  <li><Link href="/unidades?id=araucarias" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Araucárias</Link></li>
-                  <li><Link href="/unidades?id=cedro" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Cedro</Link></li>
-                  <li><Link href="/unidades?id=oliveiras" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Oliveiras</Link></li>
-                  <li><Link href="/unidades?id=macaubas" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Macaúbas</Link></li>
-                  <li><Link href="/unidades?id=montanaro" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Montanaro</Link></li>
-                  <li><Link href="/unidades?id=leblon" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Leblon</Link></li>
-                  <li><Link href="/unidades?id=imbuias" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Imbuias</Link></li>
-                  <li><Link href="/unidades?id=acacias" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Acácias</Link></li>
-                  <li><Link href="/unidades?id=ipes" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Ipês</Link></li>
-                  <li><Link href="/unidades?id=bela-vista" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Bela Vista</Link></li>
-                  <li><Link href="/unidades?id=sabias" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Sabiás</Link></li>
-                  <li><Link href="/unidades?id=orquideas" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Orquídeas</Link></li>
-                  <li><Link href="/unidades?id=jacomo" className="header__mobile-dropdown-link" onClick={() => setIsMobileMenuOpen(false)}>Cerejeiras/Jacomo Tatto</Link></li>
+                  <li><Link href="/unidades?id=araucarias" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Araucárias</Link></li>
+                  <li><Link href="/unidades?id=cedro" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Cedro</Link></li>
+                  <li><Link href="/unidades?id=oliveiras" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Oliveiras</Link></li>
+                  <li><Link href="/unidades?id=macaubas" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Macaúbas</Link></li>
+                  <li><Link href="/unidades?id=montanaro" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Montanaro</Link></li>
+                  <li><Link href="/unidades?id=leblon" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Leblon</Link></li>
+                  <li><Link href="/unidades?id=imbuias" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Imbuias</Link></li>
+                  <li><Link href="/unidades?id=acacias" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Acácias</Link></li>
+                  <li><Link href="/unidades?id=ipes" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Ipês</Link></li>
+                  <li><Link href="/unidades?id=bela-vista" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Bela Vista</Link></li>
+                  <li><Link href="/unidades?id=sabias" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Sabiás</Link></li>
+                  <li><Link href="/unidades?id=orquideas" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Orquídeas</Link></li>
+                  <li><Link href="/unidades?id=jacomo" className="header__mobile-dropdown-link" onClick={closeAllMenus}>Cerejeiras/Jacomo Tatto</Link></li>
                 </ul>
               )}
             </li>
@@ -182,9 +189,10 @@ export default function Header() {
           type="button"
           className={`header__toggle ${isMobileMenuOpen ? 'header__toggle--active' : ''}`}
           onClick={() => {
-            setIsMobileMenuOpen(!isMobileMenuOpen);
             if (isMobileMenuOpen) {
-              setActiveDropdown(null);
+              closeAllMenus();
+            } else {
+              setIsMobileMenuOpen(true);
             }
           }}
           aria-label={isMobileMenuOpen ? "Fechar menu de navegação" : "Abrir menu de navegação"}
@@ -207,19 +215,19 @@ export default function Header() {
         <div className="header__dropdown-container">
           <ul className="header__projects-list">
             <li>
-              <Link href="/projetos?id=ccinter" className="header__projects-link">CCINTER</Link>
+              <Link href="/projetos?id=ccinter" className="header__projects-link" onClick={closeAllMenus}>CCINTER</Link>
             </li>
             <li>
-              <Link href="/projetos?id=cedesp" className="header__projects-link">CEDESP</Link>
+              <Link href="/projetos?id=cedesp" className="header__projects-link" onClick={closeAllMenus}>CEDESP</Link>
             </li>
             <li>
-              <Link href="/projetos?id=nci-imbuias" className="header__projects-link">NCI</Link>
+              <Link href="/projetos?id=nci-imbuias" className="header__projects-link" onClick={closeAllMenus}>NCI</Link>
             </li>
             <li>
-              <Link href="/projetos?id=orquestra" className="header__projects-link">Orquestra Jovem</Link>
+              <Link href="/projetos?id=orquestra" className="header__projects-link" onClick={closeAllMenus}>Orquestra Jovem</Link>
             </li>
             <li>
-              <Link href="/projetos?id=telecentro" className="header__projects-link">Telecentro</Link>
+              <Link href="/projetos?id=telecentro" className="header__projects-link" onClick={closeAllMenus}>Telecentro</Link>
             </li>
           </ul>
         </div>
@@ -235,28 +243,28 @@ export default function Header() {
           <div className="header__units-grid">
             {/* Col 1 */}
             <div className="header__units-column">
-              <Link href="/unidades?id=araucarias" className="header__units-link">Araucárias</Link>
-              <Link href="/unidades?id=cedro" className="header__units-link">Cedro</Link>
-              <Link href="/unidades?id=oliveiras" className="header__units-link">Oliveiras</Link>
-              <Link href="/unidades?id=macaubas" className="header__units-link">Macaúbas</Link>
+              <Link href="/unidades?id=araucarias" className="header__units-link" onClick={closeAllMenus}>Araucárias</Link>
+              <Link href="/unidades?id=cedro" className="header__units-link" onClick={closeAllMenus}>Cedro</Link>
+              <Link href="/unidades?id=oliveiras" className="header__units-link" onClick={closeAllMenus}>Oliveiras</Link>
+              <Link href="/unidades?id=macaubas" className="header__units-link" onClick={closeAllMenus}>Macaúbas</Link>
             </div>
             {/* Col 2 */}
             <div className="header__units-column">
-              <Link href="/unidades?id=montanaro" className="header__units-link">Montanaro</Link>
-              <Link href="/unidades?id=leblon" className="header__units-link">Leblon</Link>
-              <Link href="/unidades?id=imbuias" className="header__units-link">Imbuias</Link>
+              <Link href="/unidades?id=montanaro" className="header__units-link" onClick={closeAllMenus}>Montanaro</Link>
+              <Link href="/unidades?id=leblon" className="header__units-link" onClick={closeAllMenus}>Leblon</Link>
+              <Link href="/unidades?id=imbuias" className="header__units-link" onClick={closeAllMenus}>Imbuias</Link>
             </div>
             {/* Col 3 */}
             <div className="header__units-column">
-              <Link href="/unidades?id=acacias" className="header__units-link">Acácias</Link>
-              <Link href="/unidades?id=ipes" className="header__units-link">Ipês</Link>
-              <Link href="/unidades?id=bela-vista" className="header__units-link">Bela Vista</Link>
+              <Link href="/unidades?id=acacias" className="header__units-link" onClick={closeAllMenus}>Acácias</Link>
+              <Link href="/unidades?id=ipes" className="header__units-link" onClick={closeAllMenus}>Ipês</Link>
+              <Link href="/unidades?id=bela-vista" className="header__units-link" onClick={closeAllMenus}>Bela Vista</Link>
             </div>
             {/* Col 4 */}
             <div className="header__units-column">
-              <Link href="/unidades?id=sabias" className="header__units-link">Sabiás</Link>
-              <Link href="/unidades?id=orquideas" className="header__units-link">Orquídeas</Link>
-              <Link href="/unidades?id=jacomo" className="header__units-link">Cerejeiras/Jacomo Tatto</Link>
+              <Link href="/unidades?id=sabias" className="header__units-link" onClick={closeAllMenus}>Sabiás</Link>
+              <Link href="/unidades?id=orquideas" className="header__units-link" onClick={closeAllMenus}>Orquídeas</Link>
+              <Link href="/unidades?id=jacomo" className="header__units-link" onClick={closeAllMenus}>Cerejeiras/Jacomo Tatto</Link>
             </div>
           </div>
         </div>
