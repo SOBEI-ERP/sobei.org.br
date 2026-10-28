@@ -50,6 +50,7 @@
 .hero__logo {
   max-width: 500px;
   width: 90%;
+  aspect-ratio: 560 / 160;
   height: auto;
   margin-bottom: 0;
   filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.45));
@@ -189,10 +190,16 @@
 .about-section {
   padding: 6rem 0 4.5rem;
   background-color: #FFFFFF;
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 700px;
 }
 
 .about-section--alt {
   background-color: #FFFFFF;
+}
+
+[id] {
+  scroll-margin-top: calc(var(--header-height, 70px) + 20px);
 }
 
 /* ---- Section Header (Structured & Impactful) ---- */

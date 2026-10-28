@@ -172,7 +172,7 @@ export default function ChalkboardMural({ src, alt, theme = 1, priority = false 
               alt={alt}
               fill
               priority={priority}
-              sizes="(max-width: 768px) 100vw, 530px"
+              sizes="(max-width: 640px) 300px, (max-width: 1024px) 480px, 530px"
               className="chalkboard-mural__img"
             />
           </div>
