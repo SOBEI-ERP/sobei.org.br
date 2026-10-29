@@ -837,12 +837,16 @@
 
 .vaga-hero {
   position: relative;
+  margin-top: calc(-1 * var(--radius-3xl, 24px));
+  padding-top: calc(var(--spacing-3xl) + var(--radius-3xl, 24px));
+  padding-bottom: var(--spacing-3xl);
+  padding-left: 0;
+  padding-right: 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('/images/telecentro-inclusao.avif');
   background-size: cover;
   background-position: center;
   color: var(--color-white);
-  padding: var(--spacing-3xl) 0;
-  min-height: 320px;
+  min-height: calc(320px + var(--radius-3xl, 24px));
   display: flex;
   align-items: center;
 }
@@ -1214,8 +1218,12 @@
   }
   
   .vaga-hero {
-    min-height: 250px;
-    padding: var(--spacing-2xl) 0;
+    min-height: calc(250px + var(--radius-3xl, 24px));
+    margin-top: calc(-1 * var(--radius-3xl, 24px));
+    padding-top: calc(var(--spacing-2xl) + var(--radius-3xl, 24px));
+    padding-bottom: var(--spacing-2xl);
+    padding-left: 0;
+    padding-right: 0;
   }
   
   .vaga-hero__title {

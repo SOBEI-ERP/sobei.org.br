@@ -17,7 +17,8 @@ export default function Home() {
             alt="Atividades e comunidade da SOBEI"
             fill
             priority
-            quality={80}
+            fetchPriority="high"
+            quality={75}
             sizes="100vw"
             className="hero__bg-img"
           />
@@ -29,7 +30,7 @@ export default function Home() {
             alt="SOBEI"
             width={560}
             height={160}
-            style={{ width: 'auto', height: 'auto', maxWidth: '100%' }}
+            style={{ width: '100%', maxWidth: '500px', height: 'auto', aspectRatio: '560 / 160' }}
             className="hero__logo"
             priority
           />
@@ -45,7 +46,7 @@ export default function Home() {
                         <span
                           key={charIdx}
                           className="hero__subtitle-char"
-                          style={{ animationDelay: `${0.8 + globalIdx * 0.03}s` }}
+                          style={{ animationDelay: `${0.1 + globalIdx * 0.015}s` }}
                         >
                           {char}
                         </span>

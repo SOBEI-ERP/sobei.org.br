@@ -3,9 +3,9 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
   images: {
-    formats: ['image/webp'],
+    formats: ['image/avif', 'image/webp'],
     minimumCacheTTL: 31536000,
-    deviceSizes: [640, 750, 1080, 1200, 1920],
+    deviceSizes: [384, 640, 750, 1080, 1200, 1920],
     imageSizes: [32, 48, 64, 96, 128, 256],
   },
   headers: async () => {
@@ -57,6 +57,18 @@ const nextConfig = {
             value: 'public, max-age=86400, must-revalidate',
           },
         ],
+      },
+    ];
+  },
+  rewrites: async () => {
+    return [
+      {
+        source: '/llmtxt',
+        destination: '/llms.txt',
+      },
+      {
+        source: '/llm.txt',
+        destination: '/llms.txt',
       },
     ];
   },

@@ -7,20 +7,18 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
   display: "swap",
   variable: "--font-inter",
 });
 
 const caveat = Caveat({
   subsets: ["latin"],
-  weight: ["400", "600", "700"],
   display: "swap",
   variable: "--font-caveat",
 });
 
 export const metadata = {
-  metadataBase: new URL('https://sobei.org.br'),
+  metadataBase: new URL('https://www.sobei.org.br'),
   title: {
     default: "SOBEI - Sociedade Beneficente Equilíbrio de Interlagos",
     template: "%s | SOBEI",
@@ -49,7 +47,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "pt_BR",
-    url: "https://sobei.org.br",
+    url: "https://www.sobei.org.br",
     siteName: "SOBEI",
     title: "SOBEI - Sociedade Beneficente Equilíbrio de Interlagos",
     description: "Transformando vidas por meio da educação, acolhimento e desenvolvimento social na Zona Sul de São Paulo há 42 anos.",
@@ -80,7 +78,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "/",
+    canonical: "https://www.sobei.org.br/",
   },
 };
 
@@ -89,9 +87,9 @@ const jsonLdData = {
   "@type": ["NGO", "EducationalOrganization"],
   "name": "SOBEI - Sociedade Beneficente Equilíbrio de Interlagos",
   "alternateName": "SOBEI",
-  "url": "https://sobei.org.br",
-  "logo": "https://sobei.org.br/images/LOGO%20BRANCO.png",
-  "image": "https://sobei.org.br/images/foto-sobei.avif",
+  "url": "https://www.sobei.org.br",
+  "logo": "https://www.sobei.org.br/images/LOGO%20BRANCO.png",
+  "image": "https://www.sobei.org.br/images/foto-sobei.avif",
   "description": "Instituição filantrópica fundada em 1984 que gerencia 13 creches (CEIs) e projetos de capacitação e convivência na Zona Sul de São Paulo.",
   "foundingDate": "1984-03-31",
   "address": {
@@ -133,7 +131,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
-        <SpeedInsights />
+        {process.env.VERCEL ? <SpeedInsights /> : null}
       </body>
     </html>
   );

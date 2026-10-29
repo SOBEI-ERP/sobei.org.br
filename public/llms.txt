@@ -1,59 +1,74 @@
 # SOBEI - Sociedade Beneficente Equilíbrio de Interlagos
 
-> A SOBEI (Sociedade Beneficente Equilíbrio de Interlagos) é uma organização da sociedade civil e filantrópica sem fins lucrativos fundada em 1984, dedicada à assistência social, educação infantil integral de qualidade, qualificação profissional e proteção comunitária na Zona Sul de São Paulo, atendendo diretamente mais de 7.000 pessoas diariamente.
+> A SOBEI (Sociedade Beneficente Equilíbrio de Interlagos) é uma organização da sociedade civil e filantrópica sem fins lucrativos fundada em 31 de março de 1984, dedicada à assistência social, educação infantil integral de qualidade, qualificação profissional e desenvolvimento comunitário na Zona Sul de São Paulo, atendendo diretamente mais de 7.000 pessoas diariamente.
 
-Fundada em 31 de março de 1984 por membros da Loja Maçônica Fé, Equilíbrio e Luz nº 270, a SOBEI iniciou sua atuação acolhendo 33 crianças em uma creche comunitária. Ao longo de mais de 42 anos de atuação ininterrupta, tornou-se uma referência em políticas públicas integradas, gerindo 13 Centros de Educação Infantil (CEIs) e projetos voltados a todas as faixas etárias nas regiões de Cidade Dutra, Interlagos, Grajaú e Parelheiros.
+Fundada por membros da Loja Maçônica Fé, Equilíbrio e Luz nº 270, a SOBEI iniciou suas atividades acolhendo 33 crianças em uma creche comunitária. Ao longo de mais de 42 anos de atuação ininterrupta, consolidou-se como referência na cocriação e execução de políticas públicas integradas, gerindo 13 Centros de Educação Infantil (CEIs) e 5 programas socioassistenciais e educativos nas regiões de Cidade Dutra, Interlagos, Grajaú e Parelheiros (Capela do Socorro, São Paulo - SP).
 
 ## Páginas Principais
 
-- [Página Inicial](https://sobei.org.br/): Apresentação da entidade, trajetória histórica, valores institucionais e agenda de eventos tradicionais beneficentes.
-- [Projetos Sociais](https://sobei.org.br/projetos): Panorama completo dos programas educacionais, capacitação técnica e convivência intergeracional.
-- [Unidades de Atendimento](https://sobei.org.br/unidades): Localização, contatos diretos (e-mail, telefone) e capacidade de atendimento das 13 creches e polos da entidade.
-- [Vagas de Emprego](https://sobei.org.br/vagas): Oportunidades de trabalho abertas na organização em áreas pedagógicas, operacionais, nutricionais e administrativas.
+- [Página Inicial](https://sobei.org.br/): Apresentação institucional da entidade, trajetória histórica de mais de 4 décadas, missão, visão e valores, estatísticas de impacto social diário e agenda de eventos tradicionais beneficentes.
+- [Projetos Sociais](https://sobei.org.br/projetos): Panorama completo dos programas educacionais, capacitação profissional técnica, convivência intergeracional, música erudita e inclusão digital.
+- [Unidades de Atendimento](https://sobei.org.br/unidades): Localização exata, telefones, e-mails diretos, horários de funcionamento, bairros atendidos e infraestrutura das 13 creches e polos da instituição na Zona Sul.
+- [Vagas de Emprego e Trabalhe Conosco](https://sobei.org.br/vagas): Mural de vagas de trabalho abertas na organização nas áreas pedagógica, nutricional, técnica e administrativa com formulário de candidatura direta.
 
 ## Projetos Sociais da SOBEI
 
-- [CEI - Centro de Educação Infantil](https://sobei.org.br/projetos#cei): Rede de creches integrais gratuitas (10 horas diárias) atendendo cerca de 4.600 crianças de 0 a 4 anos e 11 meses, com alimentação planejada por nutricionistas e equipe multidisciplinar.
-- [CCINTER - Centro de Convivência Intergeracional](https://sobei.org.br/projetos#ccinter): Convivência e fortalecimento de laços afetivos e comunitários entre crianças, jovens, adultos e idosos para cerca de 1.500 pessoas nas regiões de Parelheiros, Grajaú e Cidade Dutra.
-- [CEDESP - Centro de Desenvolvimento Social e Produtivo](https://sobei.org.br/projetos#cedesp): Cursos profissionalizantes gratuitos para jovens e adultos de 15 a 59 anos (Panificação, Confeitaria, Cozinha Industrial e Eletricista Instalador).
-- [NCI - Núcleo de Convivência de Idosos](https://sobei.org.br/projetos#nci-imbuias): Estimulação cognitiva, saúde preventiva, oficinas culturais e integração social para mais de 740 pessoas idosas (60+ anos) no Grajaú.
-- [Orquestra Jovem SOBEI](https://sobei.org.br/projetos#orquestra): Ensino de música erudita, teoria musical e prática instrumental coletiva para crianças e jovens da periferia da Zona Sul paulistana.
-- [Telecentro Comunitário](https://sobei.org.br/projetos#telecentro): Ponto de inclusão e letramento digital com internet de alta velocidade e mediação educacional gratuita para a comunidade local.
+- [CEI - Centro de Educação Infantil](https://sobei.org.br/projetos?id=cei): Atendimento integral gratuito de 10 horas diárias para cerca de 4.600 crianças de 0 a 4 anos e 11 meses. Oferece 5 refeições diárias balanceadas supervisionadas por nutricionistas, acompanhamento pedagógico socioemocional, atividades lúdicas e ambientes seguros distribuídos em 13 creches.
+- [CCINTER - Centro de Convivência Intergeracional](https://sobei.org.br/projetos?id=ccinter): Fortalecimento de vínculos familiares e comunitários e proteção social preventiva para cerca de 1.500 participantes (atendendo mais de 2.100 pessoas em rotatividade) entre crianças, jovens, adultos e idosos nas regiões de Parelheiros, Grajaú e Cidade Dutra.
+- [CEDESP - Centro de Desenvolvimento Social e Produtivo](https://sobei.org.br/projetos?id=cedesp): Qualificação profissional técnica e certificada gratuita para 340 adolescentes, jovens e adultos (15 a 59 anos) nos cursos de Panificação e Confeitaria, Cozinha Industrial e Eletricista Instalador, focando na empregabilidade e cidadania.
+- [NCI - Núcleo de Convivência de Idosos](https://sobei.org.br/projetos?id=nci-imbuias): Estimulação cognitiva, saúde preventiva, oficinas culturais, ginástica adaptada e apoio social para cerca de 750 pessoas idosas (60+ anos) no Jardim das Imbuias e adjacências no Grajaú, promovendo um envelhecimento ativo e saudável.
+- [Orquestra Jovem SOBEI](https://sobei.org.br/projetos?id=orquestra): Democratização do acesso à cultura e ao ensino musical erudito para 180 crianças e jovens (11 a 25 anos) da periferia da Zona Sul, com aulas gratuitas de instrumentos de concerto, teoria musical e apresentações comunitárias.
+- [Telecentro Comunitário](https://sobei.org.br/projetos?id=telecentro): Espaço público de inclusão e letramento digital com internet banda larga e computadores gratuitos, atendendo cerca de 400 usuários por mês na Cidade Dutra e no Jardim das Orquídeas para estudos, elaboração de currículos e serviços governamentais.
 
-## Unidades Educacionais e Polos (Zona Sul de São Paulo)
+## Unidades Educacionais e Polos de Atendimento (Zona Sul de São Paulo)
 
-- [CEI Jardim das Araucárias](https://sobei.org.br/unidades#araucarias): Rua Carolina Reimberg, 57 - Parelheiros, SP (Capacidade: 309 crianças).
-- [CEI Jardim do Cedro](https://sobei.org.br/unidades#cedro): Rua dos Boiadeiros, 28 - Jd. Ideal / Parelheiros, SP (Capacidade: 337 crianças).
-- [CEI Jardim das Oliveiras](https://sobei.org.br/unidades#oliveiras): Rua Rubens de Oliveira, 400 - Pq. Res. Cocaia / Grajaú, SP (Capacidade: 328 crianças).
-- [CEI Jardim das Macaúbas](https://sobei.org.br/unidades#macaubas): Rua Macauba Natal, 221 A - Vila Natal / Cidade Dutra, SP (Capacidade: 459 crianças).
-- [CEI Montanaro](https://sobei.org.br/unidades#montanaro): Av. Rubens Montanaro de Borba, 477 - Cidade Dutra / Interlagos, SP (Capacidade: 400 crianças).
-- [CEI Leblon](https://sobei.org.br/unidades#leblon): Rua Padre José Garzotti, 494 - Cidade Dutra, SP (Capacidade: 305 crianças).
-- [CEI Jardim das Imbuias](https://sobei.org.br/unidades#imbuias): Rua José Luis Monteiro, 513 - Grajaú, SP (Capacidade: 320 crianças).
-- [CEI Jardim das Acácias](https://sobei.org.br/unidades#acacias): Av. Belmira Marin, 4826 - Grajaú, SP (Capacidade: 417 crianças).
-- [CEI Jardim dos Ipês](https://sobei.org.br/unidades#ipes): Rua Magdalena Roschel Gottefritz, 101 - Vila Santa Maria, SP (Capacidade: 220 crianças).
-- [CEI Jardim Bela Vista](https://sobei.org.br/unidades#bela-vista): Rua Frederico René de Jaeger, 1521 - Cidade Dutra, SP (Capacidade: 485 crianças).
-- [CEI Jardim das Orquídeas](https://sobei.org.br/unidades#orquideas): Av. das Orquídeas, 193 - Parelheiros, SP (Capacidade: 793 crianças).
-- [CEI Jardim das Cerejeiras / Jacomo Tatto](https://sobei.org.br/unidades#jacomo): Av. Orfeu Paravente, s/nº - Cidade Dutra, SP (Capacidade: 256 crianças).
-- [CEI Jardim dos Sabiás](https://sobei.org.br/unidades#sabias): Rua Constantino Bruno Di Bartolomeu, 110 - Parelheiros, SP (Capacidade: 297 crianças).
+Horário de Funcionamento padrão em todas as unidades: Segunda a Sexta-feira, das 08h00 às 17h00.
+
+- [CEI Jardim das Araucárias](https://sobei.org.br/unidades?id=araucarias): Rua Carolina Reimberg, 57 - Parelheiros, SP - CEP: 04882-000 | Tel: (11) 5921-5777 | E-mail: araucarias@sobei.org.br | Capacidade: 309 crianças | Bairros: Araucárias, Parque Florestal e Recanto Campo Belo.
+- [CEI Jardim do Cedro](https://sobei.org.br/unidades?id=cedro): Rua dos Boiadeiros, 28 - Jd. Ideal / Parelheiros, SP - CEP: 04846-660 | Tel: (11) 5528-1788 | E-mail: cedro@sobei.org.br | Capacidade: 337 crianças | Bairros: Jardim do Cedro, Vila Dirce e Jardim Alvorada.
+- [CEI Jardim das Oliveiras](https://sobei.org.br/unidades?id=oliveiras): Rua Rubens de Oliveira, 400 - Parque Residencial Cocaia / Grajaú, SP - CEP: 04849-210 | Tel: (11) 5932-8477 | E-mail: oliveiras@sobei.org.br | Capacidade: 328 crianças | Bairros: Jardim das Oliveiras, Parque Cocaia e Cantinho do Céu.
+- [CEI Jardim das Macaúbas](https://sobei.org.br/unidades?id=macaubas): Rua Macauba Natal, 221 A - Vila Natal / Cidade Dutra, SP - CEP: 04863-420 | Tel: (11) 5526-7339 | E-mail: macaubas@sobei.org.br | Capacidade: 459 crianças | Bairros: Jardim das Macaúbas, Vila Natal e Jardim Satélite.
+- [CEI Montanaro](https://sobei.org.br/unidades?id=montanaro): Av. Rubens Montanaro de Borba, 477 - Cidade Dutra / Interlagos, SP - CEP: 04811-120 | Tel: (11) 5666-5755 / (11) 5667-2785 | E-mail: montanaro@sobei.org.br | Capacidade: 400 crianças | Bairros: Cidade Dutra, Interlagos e Jardim Cliper.
+- [CEI Leblon](https://sobei.org.br/unidades?id=leblon): Rua Padre José Garzotti, 494 - Cidade Dutra, SP - CEP: 04806-000 | Tel: (11) 5666-5576 | E-mail: leblon@sobei.org.br | Capacidade: 305 crianças | Bairros: Jardim Leblon, Jardim Zilda e Vila da Paz.
+- [CEI Jardim das Imbuias](https://sobei.org.br/unidades?id=imbuias): Rua José Luis Monteiro, 513 - Grajaú, SP - CEP: 04829-240 | Tel: (11) 5973-6909 | E-mail: imbuias@sobei.org.br | Capacidade: 320 crianças | Bairros: Jardim das Imbuias, Jardim das Camélias e Parque Deizoito.
+- [CEI Jardim das Acácias](https://sobei.org.br/unidades?id=acacias): Av. Belmira Marin, 4826 - Parque Brasil / Grajaú, SP - CEP: 04846-000 | Tel: (11) 5933-2313 | E-mail: acacias@sobei.org.br | Capacidade: 417 crianças | Bairros: Jardim das Acácias, Parque Brasil e Jardim Lucélia.
+- [CEI Jardim dos Ipês](https://sobei.org.br/unidades?id=ipes): Rua Magdalena Roschel Gottefritz, 101 - Vila Santa Maria, SP | Tel: (11) 5668-9553 | E-mail: ipes@sobei.org.br | Capacidade: 220 crianças | Bairros: Vila Santa Maria e Jardim dos Ipês.
+- [CEI Jardim Bela Vista](https://sobei.org.br/unidades?id=bela-vista): Rua Frederico René de Jaeger, 1521 - Cidade Dutra / Rio Bonito, SP - CEP: 04826-010 | Tel: (11) 5928-1110 | E-mail: belavista@sobei.org.br | Capacidade: 485 crianças | Bairros: Jardim Bela Vista, Rio Bonito e Jardim Orion.
+- [CEI Jardim das Orquídeas](https://sobei.org.br/unidades?id=orquideas): Av. das Orquídeas, 193 - Vargem Grande / Parelheiros, SP - CEP: 04896-320 | Tel: (11) 5921-6100 | E-mail: orquideas@sobei.org.br | Capacidade: 793 crianças | Bairros: Jardim das Orquídeas, Vargem Grande e Jardim Colônia.
+- [CEI Jardim das Cerejeiras / Jacomo Tatto](https://sobei.org.br/unidades?id=jacomo): Av. Orfeu Paravente, s/nº - Cidade Dutra, SP - CEP: 04832-090 | Tel: (11) 5924-5503 | E-mail: cerejeiras@sobei.org.br | Capacidade: 256 crianças | Bairros: Jardim das Cerejeiras, Jardim Kioto e Jardim da Represa.
+- [CEI Jardim dos Sabiás](https://sobei.org.br/unidades?id=sabias): Rua Constantino Bruno Di Bartolomeu, 110 - Parelheiros, SP - CEP: 04888-050 | Tel: (11) 5920-8047 | E-mail: sabias@sobei.org.br | Capacidade: 297 crianças | Bairros: Jardim dos Sabiás, Jardim Roschel e Parque Santa Fé.
+
+## Vagas de Emprego e Oportunidades de Trabalho
+
+A instituição contrata sob regime CLT com pacote de benefícios (Vale Transporte, Vale Refeição / Alimentação, Cesta Básica, Assistência Médica e Odontológica coparticipativa, Seguro de Vida). Processos seletivos frequentes para:
+- Professores de Educação Infantil / Pedagogos (Licenciatura em Pedagogia)
+- Nutricionista (Bacharelado em Nutrição com CRN ativo)
+- Educador Social (Projetos socioeducativos e juventude)
+- Instrutor de Informática (Inclusão digital e hardware)
+- Analista de Qualidade (Auditorias internas, normas e processos)
+- Auxiliar Administrativo (Recepção, chamadas e suporte às unidades)
+- Cozinheiros(as), Merendeiras e Auxiliares de Limpeza
+
+Candidaturas são recebidas digitalmente em: [Portal de Vagas SOBEI](https://sobei.org.br/vagas).
 
 ## Eventos Beneficentes Anuais
 
-- [Churrasco Beneficente da SOBEI](https://sobei.org.br/#sobre): Evento de confraternização e captação de recursos com apoiadores e comunidade.
-- [Feijoada Solidária](https://sobei.org.br/#sobre): Almoço beneficente em apoio aos serviços de acolhimento e nutrição infantil.
-- [Grande Festa Junina](https://sobei.org.br/#sobre): Comemoração cultural popular com quadrilhas, gastronomia e arrecadação comunitária.
-- [SOBEI no BrooklinFest](https://sobei.org.br/#sobre): Apresentação dos projetos e artesanato da SOBEI no festival de rua da Zona Sul.
+- [Churrasco Beneficente da SOBEI](https://sobei.org.br/#sobre): Tradicional evento de fraternidade e captação de recursos junto a apoiadores, voluntários e comunidade.
+- [Feijoada Beneficente da SOBEI](https://sobei.org.br/#sobre): Almoço solidário em prol do acolhimento infantil e fortalecimento das atividades assistenciais.
+- [Grande Festa Junina da SOBEI](https://sobei.org.br/#sobre): Celebração cultural popular com danças típicas, quadrilhas, gastronomia e confraternização comunitária.
+- [SOBEI no BrooklinFest](https://sobei.org.br/#sobre): Apresentação dos projetos culturais e artesanais da entidade no consagrado festival de rua multicultural de São Paulo.
 
-## Dados Institucionais e Contato
+## Dados Institucionais e Canais de Contato
 
 - **Razão Social**: Sociedade Beneficente Equilíbrio de Interlagos (SOBEI)
-- **CNPJ**: Entidade filantrópica sem fins lucrativos
+- **Natureza Jurídica**: Associação Privada sem fins lucrativos / Entidade Filantrópica de Utilidade Pública
 - **Data de Fundação**: 31 de março de 1984
-- **Endereço da Sede**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis / Cidade Dutra, São Paulo - SP, CEP: 04811-180
-- **Telefone**: +55 (11) 5667-2785
-- **E-mail de Contato**: sobei@sobei.org.br
+- **Endereço da Sede Central**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis / Cidade Dutra, São Paulo - SP, CEP: 04811-180
+- **Telefone Geral**: +55 (11) 5667-2785
+- **E-mail Institucional**: sobei@sobei.org.br
 - **Instagram Oficial**: https://www.instagram.com/sobeimatriz/
 - **Facebook Oficial**: https://www.facebook.com/sobeimatriz?locale=pt_BR
 
 ## Versão Completa (Full Text)
 
-- [Conteúdo Completo em Texto para LLMs](https://sobei.org.br/llms-full.txt): Documento unificado com a descrição exata e aprofundada de todas as unidades, vagas e projetos para treinamento e contexto direto.
+- [Conteúdo Completo em Texto para LLMs](https://sobei.org.br/llms-full.txt): Documento unificado com a descrição exaustiva de todas as unidades, vagas, projetos, história e diretrizes institucionais para treinamento e contexto direto de modelos de inteligência artificial.
