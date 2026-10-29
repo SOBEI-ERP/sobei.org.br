@@ -1,162 +1,270 @@
 # SOBEI - Sociedade Beneficente Equilíbrio de Interlagos (Texto Completo)
 
-> A SOBEI (Sociedade Beneficente Equilíbrio de Interlagos) é uma organização filantrópica sem fins lucrativos fundada em 31 de março de 1984 na Zona Sul de São Paulo, dedicada à educação infantil integral, proteção social e desenvolvimento comunitário.
+> A SOBEI (Sociedade Beneficente Equilíbrio de Interlagos) é uma organização filantrópica da sociedade civil sem fins lucrativos fundada em 31 de março de 1984 na Zona Sul de São Paulo, dedicada à educação infantil integral, proteção social e desenvolvimento comunitário sustentável.
 
 ---
 
-## 1. Visão Geral Institucional
+## 1. Visão Geral Institucional e Histórica
 
-- **Organização**: Sociedade Beneficente Equilíbrio de Interlagos (SOBEI)
-- **Fundação**: 31 de março de 1984
-- **Origem**: Criada por membros da Loja Maçônica Fé, Equilíbrio e Luz nº 270 para apoiar famílias vulneráveis da Zona Sul paulistana.
-- **Sede Administrativa**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis, Cidade Dutra, São Paulo - SP, CEP: 04811-180
-- **Telefone**: +55 (11) 5667-2785
-- **E-mail Geral**: sobei@sobei.org.br
-- **Atendimento Diário**: Mais de 7.000 pessoas atendidas diretamente todos os dias.
-- **Estrutura**: 13 Centros de Educação Infantil (CEIs) e 5 programas socioassistenciais.
-- **Regiões de Atuação**: Capela do Socorro, Cidade Dutra, Interlagos, Grajaú e Parelheiros.
+- **Razão Social**: Sociedade Beneficente Equilíbrio de Interlagos (SOBEI)
+- **Data de Fundação**: 31 de março de 1984
+- **Origem Histórica**: Fundada por membros da Loja Maçônica Fé, Equilíbrio e Luz nº 270 para acolher e amparar famílias em situação de vulnerabilidade e risco social na Zona Sul da capital paulista.
+- **Início das Atividades**: Iniciou sua trajetória com o acolhimento de 33 crianças em uma creche comunitária pioneira.
+- **Evolução Atual**: Mais de 42 anos de atuação ininterrupta, atendendo diariamente cerca de 7.000 pessoas de forma direta.
+- **Estrutura Operacional**: 18 serviços e projetos ativos, sendo 13 Centros de Educação Infantil (CEIs) e 5 programas socioassistenciais e educativos.
+- **Regiões de Atuação**: Cidade Dutra, Interlagos, Jardim Regis, Grajaú, Parque Residencial Cocaia, Vargem Grande e Parelheiros (distrito de Capela do Socorro e Parelheiros, Zona Sul de São Paulo - SP).
+- **Sede Administrativa**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis / Cidade Dutra, São Paulo - SP, CEP: 04811-180.
+- **Telefone Geral**: +55 (11) 5667-2785
+- **E-mail Central**: sobei@sobei.org.br
+- **Horário de Atendimento**: Segunda a sexta-feira, das 08h00 às 17h00.
+
+---
+
+## 2. Missão, Visão e Valores
 
 ### Missão
-Promover a dignidade humana e a autovalorização de famílias e indivíduos em situação de vulnerabilidade e risco social, por meio do acolhimento afetivo e da educação cidadã, atuando como um agente de emancipação para que cada pessoa se torne protagonista de sua história.
+Promover a dignidade humana e a autovalorização de famílias e indivíduos em situação de vulnerabilidade e risco social. Por meio do acolhimento afetivo e de uma educação cidadã emancipatória, a SOBEI atua como um agente de transformação para que cada pessoa se torne protagonista consciente de sua própria história. Estrutura redes de apoio integrais para a primeira infância, qualificação profissional para jovens e adultos e bem-estar ativo para os idosos.
 
 ### Visão
-Ser referência de excelência nacional na cocriação e execução de políticas públicas integradas nas áreas de educação e assistência social, unindo qualidade pedagógica, transparência de gestão e impacto social sustentável.
+Ser referência de excelência nacional na cocriação e execução de políticas públicas integradas nas áreas de educação e assistência social, unindo qualidade pedagógica de ponta, transparência irrestrita de gestão e impacto social comunitário sustentável.
 
-### Valores
-- Ética nas relações
-- Respeito profundo à diversidade humana
-- Solidariedade prática no cotidiano
-- Acolhimento afetuoso que gera segurança
-- Permanente compromisso com a transformação social e igualdade
-
----
-
-## 2. Programas e Projetos Sociais
-
-### CEI - Centro de Educação Infantil
-- **Objetivo**: Atendimento integral gratuito à primeira infância.
-- **Público**: Crianças de 0 a 4 anos e 11 meses.
-- **Capacidade**: Cerca de 4.600 crianças.
-- **Carga Horária**: 10 horas diárias de atendimento gratuito.
-- **Benefícios**: Acompanhamento nutricional balanceado, segurança, ambiente acolhedor, projetos pedagógicos de desenvolvimento cognitivo e motor, atividades culturais e de lazer.
-
-### CCINTER - Centro de Convivência Intergeracional
-- **Objetivo**: Proteção social preventiva contra riscos e vulnerabilidade e fortalecimento dos vínculos familiares e comunitários.
-- **Público**: Intergeracional (crianças, jovens, adultos e idosos).
-- **Capacidade**: Cerca de 1.500 participantes.
-- **Regiões**: Parelheiros, Grajaú e Cidade Dutra.
-- **Benefícios**: Grupos heterogêneos por interesse, autonomia, protagonismo comunitário e convivência harmoniosa entre diferentes faixas etárias.
-
-### CEDESP - Centro de Desenvolvimento Social e Produtivo
-- **Objetivo**: Desenvolvimento social e qualificação profissional técnica gratuita para inserção no mercado de trabalho e geração de renda.
-- **Público**: Adolescentes, jovens e adultos de 15 a 59 anos.
-- **Capacidade**: 340 alunos.
-- **Cursos Oferecidos**: Panificação e Confeitaria, Cozinha Industrial e Eletricista Instalador.
-- **Regiões**: Capela do Socorro, Grajaú e Cidade Dutra.
-
-### NCI - Núcleo de Convivência de Idosos
-- **Objetivo**: Convivência sadia, envelhecimento ativo, prevenção ao isolamento e fortalecimento de laços comunitários.
-- **Público**: Idosos a partir de 60 anos.
-- **Capacidade**: Cerca de 750 idosos.
-- **Atividades**: Oficinas socioculturais, estimulação cognitiva, ginástica e práticas esportivas adaptadas, palestras informativas e apoio social.
-- **Localização**: Jardim das Imbuias, Parque Residencial Cocaia e Grajaú.
-
-### Orquestra Jovem SOBEI
-- **Objetivo**: Democratização do acesso à música clássica e de concerto, promovendo disciplina, sensibilidade artística e cidadania.
-- **Público**: Estudantes de 11 a 25 anos.
-- **Capacidade**: Cerca de 180 alunos.
-- **Benefícios**: Aulas gratuitas de teoria musical e prática com instrumentos orquestrais, concertos comunitários e eventos beneficentes.
-
-### Telecentro Comunitário
-- **Objetivo**: Inclusão digital, livre acesso à tecnologia e letramento digital.
-- **Público**: Aberto a toda a comunidade de todas as idades.
-- **Capacidade**: 400 usuários/mês.
-- **Benefícios**: Computadores conectados à internet banda larga, orientação com monitores para estudos, confecção de currículos, pesquisas escolares e acesso a serviços públicos governamentais.
+### Valores (Cinco Pilares Institucionais)
+1. **Ética nas Relações**: Alavancada na integridade, transparência e retidão em todos os processos de gestão e convivência humana.
+2. **Respeito à Diversidade e Dignidade Humana**: Acolhimento incondicional de todos os indivíduos, combatendo veementemente qualquer forma de discriminação, intolerância ou preconceito.
+3. **Solidariedade Prática**: Compromisso ativo e contínuo com a comunidade local no dia a dia das unidades.
+4. **Acolhimento Afetuoso**: Criação de ambientes seguros, humanizados e calorosos que geram segurança física, emocional e social para crianças e famílias.
+5. **Transformação Social e Emancipação**: Busca incessante pela promoção da autonomia e garantia de direitos para a superação de ciclos de vulnerabilidade.
 
 ---
 
-## 3. Relação Completa das 13 Unidades da SOBEI
+## 3. Programas e Projetos Sociais da SOBEI
+
+### 3.1. CEI - Centro de Educação Infantil
+- **Objetivo**: Proporcionar educação infantil de excelência em tempo integral para crianças na primeira infância, assegurando desenvolvimento físico, cognitivo, socioemocional e motor.
+- **Público-Alvo**: Crianças de 0 a 4 anos e 11 meses.
+- **Capacidade de Atendimento**: Cerca de 4.600 crianças atendidas simultaneamente em 13 creches parceiras com a Secretaria Municipal de Educação (SME).
+- **Carga Horária**: Regime integral gratuito de 10 horas diárias (segunda a sexta-feira).
+- **Nutrição e Saúde**: Fornecimento diário de 5 refeições completas balanceadas, elaboradas e supervisionadas por equipe própria de nutricionistas, seguindo rigorosos padrões de segurança alimentar da ANVISA.
+- **Infraestrutura**: Berçários equipados, lactários, salas de estimulação e atividades pedagógicas, fraldários modernos, brinquedotecas, parques infantis externos e solários protegidos.
+- **Unidades que operam CEI**: Jardim das Araucárias, Jardim do Cedro, Jardim das Oliveiras, Jardim das Macaúbas, Montanaro, Leblon, Jardim das Imbuias, Jardim das Acácias, Jardim dos Ipês, Jardim Bela Vista, Jardim das Orquídeas, Jardim das Cerejeiras / Jacomo Tatto e Jardim dos Sabiás.
+
+### 3.2. CCINTER - Centro de Convivência Intergeracional
+- **Objetivo**: Fortalecer os vínculos familiares e comunitários e atuar na proteção social preventiva contra violações de direitos, violência e isolamento social.
+- **Público-Alvo**: Todas as faixas etárias de forma compartilhada (crianças, adolescentes, jovens, adultos e idosos).
+- **Capacidade de Atendimento**: 1.512 participantes fixos (com alcance rotativo superior a 2.100 pessoas).
+- **Metodologia**: Dinâmicas de convivência em grupos heterogêneos orientados por interesses, potenciais e temas contemporâneos, estimulando a troca de saberes e o respeito entre gerações.
+- **Regiões de Atendimento**: Bairros periféricos de Parelheiros, Grajaú e Cidade Dutra.
+- **Polos de Operação**: Araucárias, Cedro, Oliveiras e Macaúbas.
+
+### 3.3. CEDESP - Centro de Desenvolvimento Social e Produtivo
+- **Objetivo**: Qualificação técnica e capacitação profissional básica gratuita para jovens e adultos, facilitando a empregabilidade, a inserção produtiva no mercado de trabalho formal e a geração de renda familiar.
+- **Público-Alvo**: Adolescentes, jovens e adultos entre 15 e 59 anos em situação de vulnerabilidade socioeconômica.
+- **Capacidade**: 340 vagas ativas anuais.
+- **Cursos Profissionalizantes Ministrados**:
+  1. *Panificação e Confeitaria*: Técnicas de produção de pães, massas, bolos, tortas e manipulação higiênico-sanitária de alimentos.
+  2. *Cozinha Industrial*: Técnicas culinárias profissionais, pré-preparo, métodos de cocção, montagem de pratos e gestão de cozinhas coletivas.
+  3. *Eletricista Instalador*: Instalações elétricas residenciais e prediais básicas, leitura de diagramas unifilares, segurança no trabalho e normas da NR-10.
+- **Diferenciais**: Formação cidadã integrada com oficinas de postura profissional, elaboração de currículos, ética profissional e preparação para processos seletivos.
+- **Polos de Operação**: Montanaro, Leblon, Imbuias e Acácias.
+
+### 3.4. NCI - Núcleo de Convivência de Idosos
+- **Objetivo**: Promover o envelhecimento ativo, saudável e autônomo, prevenindo o isolamento social, a depressão e o declínio cognitivo na terceira idade.
+- **Público-Alvo**: Pessoas idosas com idade igual ou superior a 60 anos residentes na Zona Sul de São Paulo.
+- **Capacidade**: Cerca de 750 idosos cadastrados e assistidos (atendimento regular a cerca de 650 a 750 participantes).
+- **Atividades Desenvolvidas**: Grupos de estimulação cognitiva e memória, práticas físicas adaptadas (ginástica funcional e alongamento), rodas de conversa sobre saúde e direitos da pessoa idosa, oficinas de artesanato, eventos socioculturais, passeios comunitários e apoio psicossocial continuado.
+- **Regiões e Polos**: Jardim das Imbuias, Parque Residencial Cocaia, Grajaú, Ipês e Bela Vista.
+
+### 3.5. Orquestra Jovem SOBEI
+- **Objetivo**: Democratizar o acesso à música clássica, sinfônica e instrumental para crianças e adolescentes da periferia, utilizando a arte como ferramenta transformadora de desenvolvimento cognitivo, disciplina e cidadania.
+- **Público-Alvo**: Estudantes da rede pública com idade entre 11 e 25 anos.
+- **Capacidade**: 180 alunos em formação musical.
+- **Conteúdo Programático**: Aulas teóricas de leitura de partituras, percepção e solfejo, aulas práticas de instrumentos de orquestra (cordas friccionadas: violino, viola de arco, violoncelo e contrabaixo acústico; instrumentos de sopro e percussão sinfônica) e prática de conjunto em orquestra de câmara.
+- **Apresentações**: Concertos comunitários gratuitos, eventos beneficentes, festivais culturais e apresentações na Sede Matriz da SOBEI.
+- **Polo Central**: Sede Administrativa SOBEI (Av. Rubens Montanaro de Borba, 477 - Cidade Dutra).
+
+### 3.6. Telecentro Comunitário
+- **Objetivo**: Superar a exclusão digital por meio do fornecimento gratuito de equipamentos modernos, internet em alta velocidade e mediação educacional.
+- **Público-Alvo**: Livre para toda a comunidade (crianças, jovens, adultos e pessoas idosas).
+- **Capacidade**: Cerca de 400 atendimentos e usuários por mês.
+- **Serviços Oferecidos**: Livre navegação orientada, cursos introdutórios de informática (sistema operacional Windows, pacote de produtividade Office e navegação web segura), apoio na elaboração de currículos profissionais, pesquisas escolares e auxílio no acesso a portais de serviços públicos digitais (e-CAC, Carteira Digital de Trabalho, Poupatempo, Gov.br e agendamento de benefícios).
+- **Polos de Atendimento**: Jardim das Orquídeas e Jardim das Cerejeiras / Jacomo Tatto.
+
+---
+
+## 4. Relação Completa das 13 Unidades da SOBEI (Zona Sul de SP)
+
+Todas as unidades operam de segunda a sexta-feira, das 08h00 às 17h00.
 
 1. **CEI Jardim das Araucárias**
    - Endereço: Rua Carolina Reimberg, 57 - Parelheiros, São Paulo - SP, CEP: 04882-000
    - Telefone: (11) 5921-5777 | E-mail: araucarias@sobei.org.br
-   - Capacidade: 309 crianças | Bairros: Araucárias, Parque Florestal e Recanto Campo Belo.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil) e polo socioassistencial
+   - Capacidade de Atendimento: 309 crianças em período integral
+   - Bairros de Abrangência: Jardim das Araucárias, Parque Florestal, Recanto Campo Belo e adjacências de Parelheiros
+   - Infraestrutura: Salas de estimulação, lactário higienizado, fraldários ventilados, refeitório dedicado e parquinho ao ar livre.
 
 2. **CEI Jardim do Cedro**
-   - Endereço: Rua dos Boiadeiros, 28 - Jd. Ideal, São Paulo - SP, CEP: 04846-660
+   - Endereço: Rua dos Boiadeiros, 28 - Jardim Ideal / Parelheiros, São Paulo - SP, CEP: 04846-660
    - Telefone: (11) 5528-1788 | E-mail: cedro@sobei.org.br
-   - Capacidade: 337 crianças | Bairros: Jardim do Cedro, Vila Dirce e Jardim Alvorada.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 337 crianças em período integral
+   - Bairros de Abrangência: Jardim do Cedro, Vila Dirce, Jardim Alvorada e entorno
+   - Infraestrutura: Espaço físico planejado, salas de recreação lúdica, banheiros adaptados à faixa etária e refeições balanceadas diárias.
 
 3. **CEI Jardim das Oliveiras**
-   - Endereço: Rua Rubens de Oliveira, 400 - Parque Residencial Cocaia, São Paulo - SP, CEP: 04849-210
+   - Endereço: Rua Rubens de Oliveira, 400 - Parque Residencial Cocaia / Grajaú, São Paulo - SP, CEP: 04849-210
    - Telefone: (11) 5932-8477 | E-mail: oliveiras@sobei.org.br
-   - Capacidade: 328 crianças | Bairros: Jardim das Oliveiras, Parque Cocaia e Cantinho do Céu.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 328 crianças em período integral
+   - Bairros de Abrangência: Jardim das Oliveiras, Parque Residencial Cocaia, Cantinho do Céu e Grajaú
+   - Infraestrutura: Salas de desenvolvimento motor, pátio externo, atendimento humanizado e acompanhamento contínuo por nutricionistas.
 
 4. **CEI Jardim das Macaúbas**
-   - Endereço: Rua Macauba Natal, 221 A - Vila Natal, São Paulo - SP, CEP: 04863-420
+   - Endereço: Rua Macauba Natal, 221 A - Vila Natal / Cidade Dutra, São Paulo - SP, CEP: 04863-420
    - Telefone: (11) 5526-7339 | E-mail: macaubas@sobei.org.br
-   - Capacidade: 459 crianças | Bairros: Jardim das Macaúbas, Vila Natal e Jardim Satélite.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 459 crianças em período integral
+   - Bairros de Abrangência: Jardim das Macaúbas, Vila Natal, Jardim Satélite e imediações da Cidade Dutra
+   - Infraestrutura: Salas pedagógicas amplas, solário, contação de histórias estruturada e projetos lúdicos de incentivo à autonomia infantil.
 
-5. **CEI Montanaro**
-   - Endereço: Av. Rubens Montanaro de Borba, 477 - Cidade Dutra, São Paulo - SP, CEP: 04811-120
-   - Telefone: (11) 5666-5755 | E-mail: montanaro@sobei.org.br
-   - Capacidade: 400 crianças | Bairros: Cidade Dutra, Interlagos e Jardim Cliper.
+5. **CEI Montanaro (Sede Matriz)**
+   - Endereço: Av. Rubens Montanaro de Borba, 477 - Cidade Dutra / Interlagos, São Paulo - SP, CEP: 04811-120
+   - Telefone: (11) 5666-5755 / (11) 5667-2785 | E-mail: montanaro@sobei.org.br
+   - Tipo de Serviço: CEI (Centro de Educação Infantil) e Polo de Projetos Integrados
+   - Capacidade de Atendimento: 400 crianças em período integral
+   - Bairros de Abrangência: Cidade Dutra, Interlagos, Jardim Regis e Jardim Cliper
+   - Infraestrutura: Polo de referência institucional, refeitório com nutrição rigorosa, salas de descanso acolhedoras, berçários modelo e solário protegido.
 
 6. **CEI Leblon**
    - Endereço: Rua Padre José Garzotti, 494 - Cidade Dutra, São Paulo - SP, CEP: 04806-000
    - Telefone: (11) 5666-5576 | E-mail: leblon@sobei.org.br
-   - Capacidade: 305 crianças | Bairros: Jardim Leblon, Jardim Zilda e Vila da Paz.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 305 crianças em período integral
+   - Bairros de Abrangência: Jardim Leblon, Jardim Zilda, Vila da Paz e adjacências
+   - Infraestrutura: Brinquedoteca pedagógica, salas climatizadas naturalmente, fraldários modernos e monitoramento integral da socialização infantil.
 
 7. **CEI Jardim das Imbuias**
-   - Endereço: Rua José Luis Monteiro, 513 - Jd. das Camélias, São Paulo - SP, CEP: 04829-240
+   - Endereço: Rua José Luis Monteiro, 513 - Jardim das Camélias / Grajaú, São Paulo - SP, CEP: 04829-240
    - Telefone: (11) 5973-6909 | E-mail: imbuias@sobei.org.br
-   - Capacidade: 320 crianças | Bairros: Jardim das Imbuias, Jardim das Camélias e Parque Deizoito.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 320 crianças em período integral
+   - Bairros de Abrangência: Jardim das Imbuias, Jardim das Camélias, Parque Deizoito e região do Grajaú
+   - Infraestrutura: Estrutura acolhedora, espaço recreativo externo, incentivo à expressão artística e acompanhamento do crescimento infantil.
 
 8. **CEI Jardim das Acácias**
-   - Endereço: Av. Belmira Marin, 4826 - Parque Brasil, São Paulo - SP, CEP: 04846-000
+   - Endereço: Av. Belmira Marin, 4826 - Parque Brasil / Grajaú, São Paulo - SP, CEP: 04846-000
    - Telefone: (11) 5933-2313 | E-mail: acacias@sobei.org.br
-   - Capacidade: 417 crianças | Bairros: Jardim das Acácias, Parque Brasil e Jardim Lucélia.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 417 crianças em período integral
+   - Bairros de Abrangência: Jardim das Acácias, Parque Brasil, Jardim Lucélia e Grajaú
+   - Infraestrutura: Parquinho infantil com piso emborrachado, refeitório preparado para alimentação integral, salas de estimulação visual e sensorial.
 
 9. **CEI Jardim dos Ipês**
-   - Endereço: Rua Magdalena Roschel Gottefritz, 101 - Vila Santa Maria, São Paulo - SP
+   - Endereço: Rua Magdalena Roschel Gottefritz, 101 - Vila Santa Maria (Complemento: Rua Rui Rodrigues, 10), São Paulo - SP
    - Telefone: (11) 5668-9553 | E-mail: ipes@sobei.org.br
-   - Capacidade: 220 crianças | Bairros: Vila Santa Maria e Jardim dos Ipês.
+   - Tipo de Serviço: CEI (Centro de Educação Infantil)
+   - Capacidade de Atendimento: 220 crianças em período integral
+   - Bairros de Abrangência: Vila Santa Maria, Jardim dos Ipês e imediações da Zona Sul
+   - Infraestrutura: Ambientes ventilados, salas de soninho confortáveis, refeitório amplo e equipe pedagógica comprometida com o afeto e cuidado.
 
 10. **CEI Jardim Bela Vista**
-    - Endereço: Rua Frederico René de Jaeger, 1521 - Rio Bonito, São Paulo - SP, CEP: 04826-010
+    - Endereço: Rua Frederico René de Jaeger, 1521 - Rio Bonito / Cidade Dutra, São Paulo - SP, CEP: 04826-010
     - Telefone: (11) 5928-1110 | E-mail: belavista@sobei.org.br
-    - Capacidade: 485 crianças | Bairros: Jardim Bela Vista, Rio Bonito e Jardim Orion.
+    - Tipo de Serviço: CEI (Centro de Educação Infantil)
+    - Capacidade de Atendimento: 485 crianças em período integral
+    - Bairros de Abrangência: Jardim Bela Vista, Rio Bonito, Jardim Orion e Cidade Dutra
+    - Infraestrutura: Solário para banho de sol dos bebês, salas lúdicas multifuncionais, atendimento focado em motricidade e alimentação equilibrada.
 
 11. **CEI Jardim das Orquídeas**
-    - Endereço: Av. das Orquídeas, 193 - Vargem Grande, São Paulo - SP, CEP: 04896-320
+    - Endereço: Av. das Orquídeas, 193 - Vargem Grande / Parelheiros, São Paulo - SP, CEP: 04896-320
     - Telefone: (11) 5921-6100 | E-mail: orquideas@sobei.org.br
-    - Capacidade: 793 crianças | Bairros: Jardim das Orquídeas, Vargem Grande e Jardim Colônia.
+    - Tipo de Serviço: CEI (Centro de Educação Infantil)
+    - Capacidade de Atendimento: 793 crianças em período integral (maior unidade da SOBEI)
+    - Bairros de Abrangência: Jardim das Orquídeas, Vargem Grande, Jardim Colônia e extremos de Parelheiros
+    - Infraestrutura: Amplo pátio coberto para recreação em dias de chuva, refeitórios duplos, múltiplas salas de convivência e suporte pediátrico/nutricional de rotina.
 
 12. **CEI Jardim das Cerejeiras / Jacomo Tatto**
-    - Endereço: Av. Orfeu Paravente, s/nº - Jd. Kioto, São Paulo - SP, CEP: 04832-090
+    - Endereço: Av. Orfeu Paravente, s/nº - Jardim Kioto (Complemento: Rua Daniel Artterbom, 95 B), São Paulo - SP, CEP: 04832-090
     - Telefone: (11) 5924-5503 | E-mail: cerejeiras@sobei.org.br
-    - Capacidade: 256 crianças | Bairros: Jardim das Cerejeiras, Jardim Kioto e Jardim da Represa.
+    - Tipo de Serviço: CEI (Centro de Educação Infantil)
+    - Capacidade de Atendimento: 256 crianças em período integral
+    - Bairros de Abrangência: Jardim das Cerejeiras, Jardim Kioto, Jardim da Represa e Cidade Dutra
+    - Infraestrutura: Biblioteca infantil integrada com acervo para a primeira infância, jogos pedagógicos construtivos e refeitório acolhedor.
 
 13. **CEI Jardim dos Sabiás**
     - Endereço: Rua Constantino Bruno Di Bartolomeu, 110 - Parelheiros, São Paulo - SP, CEP: 04888-050
     - Telefone: (11) 5920-8047 | E-mail: sabias@sobei.org.br
-    - Capacidade: 297 crianças | Bairros: Jardim dos Sabiás, Jardim Roschel e Parque Santa Fé.
+    - Tipo de Serviço: CEI (Centro de Educação Infantil)
+    - Capacidade de Atendimento: 297 crianças em período integral
+    - Bairros de Abrangência: Jardim dos Sabiás, Jardim Roschel, Parque Santa Fé e Parelheiros
+    - Infraestrutura: Horta pedagógica infantil com contato direto com a terra, solários com incidência matinal de luz, berçários equipados e estreito vínculo de escuta com as famílias.
 
 ---
 
-## 4. Oportunidades de Emprego na SOBEI
-A organização realiza processos seletivos frequentes para profissionais de diversas áreas (regime CLT com benefícios como Vale Transporte, Vale Refeição, Plano de Saúde e Odontológico). Exemplos recorrentes de posições:
-- Analista de Qualidade (Auditorias e padronização)
-- Educador Social (Oficinas socioeducativas e dinâmicas juvenis)
-- Auxiliar Administrativo (Recepção e suporte operacional)
-- Nutricionista (Elaboração de cardápios e fiscalização sanitária)
-- Instrutor de Informática (Aulas de letramento digital e manutenção de equipamentos)
-- Professores de Educação Infantil / Pedagogos (Docência e mediação pedagógica)
+## 5. Oportunidades de Emprego, Trabalhe Conosco e Banco de Talentos
+
+A SOBEI contrata profissionais comprometidos com a causa socioeducativa. As vagas são regidas pela Consolidação das Leis do Trabalho (CLT) em contratação direta, oferecendo estabilidade, desenvolvimento profissional e pacote abrangente de benefícios.
+
+### Pacote de Benefícios Oferecido
+- Vale Transporte (conforme legislação vigente)
+- Vale Refeição / Alimentação
+- Cesta Básica de alimentos
+- Assistência Médica com coparticipação
+- Assistência Odontológica
+- Seguro de Vida em grupo
+- Ambiente fraterno e suporte técnico-pedagógico contínuo
+
+### Cargos e Posições Recorrentes
+1. **Professores de Educação Infantil / Pedagogos**:
+   - Requisitos: Graduação completa em Pedagogia (Licenciatura Plena), registro ou aptidão pedagógica, dinamismo e carinho no trato com a primeira infância.
+   - Atribuições: Planejamento de rotinas pedagógicas ativas, mediação de brincadeiras e aprendizagem, registros de evolução infantil e diálogo com pais/responsáveis.
+2. **Analista de Qualidade**:
+   - Requisitos: Graduação em Administração, Engenharia ou áreas correlatas; domínio de metodologias de melhoria contínua (PDCA, Ishikawa, 5S); vivência prévia em auditorias de processos e gestão da qualidade.
+   - Atribuições: Auditorias internas nas unidades, mapeamento e padronização de procedimentos, controle de conformidade e acompanhamento de planos de ação corretiva.
+3. **Educador Social**:
+   - Requisitos: Graduação em Pedagogia, Psicologia ou Serviço Social; experiência prévia de ao menos 1 ano em projetos socioeducativos ou terceiro setor; resiliência e habilidade de comunicação com o público jovem.
+   - Atribuições: Ministrar oficinas de convivência e cidadania no CEDESP, promover dinâmicas sobre ética e mercado de trabalho e apoiar o acolhimento comunitário.
+4. **Auxiliar Administrativo**:
+   - Requisitos: Ensino Médio completo (desejável superior em andamento em Administração ou Gestão); domínio do pacote Microsoft Office (Excel, Word e Outlook); perfil proativo, organizado e acolhedor.
+   - Atribuições: Recepção e acolhimento da comunidade, controle de planilhas de presença e frequência, protocolo de documentos, atendimento telefônico e apoio operacional à coordenação da unidade.
+5. **Nutricionista**:
+   - Requisitos: Bacharelado completo em Nutrição com registro ativo no Conselho Regional de Nutricionistas (CRN); experiência ou pós-graduação em alimentação escolar infantil; domínio das normas sanitárias da ANVISA.
+   - Atribuições: Elaboração de cardápios infantis ricos e balanceados, supervisão técnica periódica das cozinhas e despensas nas 13 creches, treinamento de boas práticas para as merendeiras e realização de avaliações antropométricas nas crianças.
+6. **Instrutor de Informática**:
+   - Requisitos: Formação técnica ou graduação em andamento em TI, Redes, Sistemas de Informação ou áreas afins; didática para público leigo em letramento digital; conhecimentos de manutenção de computadores e suporte a redes.
+   - Atribuições: Ministrar aulas práticas de informática básica, internet e pacote office no Telecentro para turmas de crianças a idosos, além de apoiar usuários na elaboração de currículos e pesquisas online.
+7. **Cozinheiras, Merendeiras e Auxiliares de Cozinha**:
+   - Requisitos: Ensino Fundamental completo e experiência prévia em cozinhas industriais, restaurantes comerciais ou escolas.
+   - Atribuições: Preparo cuidadoso e higiênico de todas as refeições diárias para centenas de crianças e alunos, seguindo rigorosamente o manual de boas práticas nutricionais.
+8. **Auxiliares de Limpeza e Manutenção Predial**:
+   - Requisitos: Ensino Fundamental completo e disposição física para rotinas de conservação predial.
+   - Atribuições: Limpeza, asseio e higienização diária das salas de aula, refeitórios, banheiros e pátios, garantindo ambientes salubres e seguros.
+
+### Fluxo de Inscrição e Candidatura
+Os interessados devem acessar a página oficial: `https://sobei.org.br/vagas`. Os candidatos podem filtrar as oportunidades por palavra-chave ou unidade de interesse, visualizar os requisitos de cada vaga e preencher o formulário anexando currículo atualizado em formato PDF ou DOCX, com consentimento em conformidade com a Lei Geral de Proteção de Dados (LGPD).
 
 ---
 
-## 5. Eventos Beneficentes
-- **Churrasco Beneficente**: Confraternização com a comunidade para manutenção das creches.
-- **Feijoada Solidária**: Mobilização comunitária em prol dos projetos sociais.
-- **Grande Festa Junina**: Resgate de tradições com quadrilhas e barracas gastronômicas.
-- **SOBEI no BrooklinFest**: Participação no tradicional festival de rua paulistano.
+## 6. Eventos Beneficentes Tradicionais
+
+A SOBEI realiza anualmente encontros beneficentes tradicionais cuja arrecadação é integralmente revertida para a complementação de custeio das creches e expansão dos atendimentos socioassistenciais gratuitos.
+
+- **Churrasco Beneficente da SOBEI**: Confraternização tradicional de grande porte que reúne voluntários, empresários parceiros, membros da maçonaria e a comunidade paulistana em torno da alta gastronomia fraterna, shows ao vivo e sorteios solidários.
+- **Feijoada Beneficente da SOBEI**: Almoço tradicional de confraternização solidária com receitas típicas preparadas por voluntários dedicados, promovendo a união das famílias em prol da infância e da juventude assistidas.
+- **Grande Festa Junina da SOBEI**: Uma das celebrações populares mais aguardadas da Zona Sul de São Paulo, contando com quadrilhas das creches e projetos, barracas de brincadeiras tradicionais (pescaria, boca do palhaço), trajes caipiras e barracas gastronômicas (doces típicos, milho verde, quentão e caldos).
+- **SOBEI no BrooklinFest**: Participação histórica no tradicional festival multicultural alemão no Brooklin (Zona Sul de SP), expondo o trabalho social da instituição, comercializando produtos artesanais e divulgando a causa da educação integral para milhares de visitantes.
+
+---
+
+## 7. Informações Institucionais e Canais de Contato
+
+- **Razão Social**: Sociedade Beneficente Equilíbrio de Interlagos (SOBEI)
+- **CNPJ da Sede**: 53.818.191/0001-60 (e filiais vinculadas)
+- **Natureza Jurídica**: Associação Privada / Organização da Sociedade Civil (OSC) filantrópica sem fins lucrativos
+- **Sede Administrativa**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis / Cidade Dutra, São Paulo - SP, CEP: 04811-180
+- **Central Telefônica**: +55 (11) 5667-2785
+- **E-mail de Contato Geral**: sobei@sobei.org.br
+- **Canal de Denúncias e Ouvidoria**: Disponível pelo portal oficial integrado de denúncias da SOBEI.
+- **Presença em Redes Sociais Oficiais**:
+  - Instagram Oficial: [https://www.instagram.com/sobeimatriz/](https://www.instagram.com/sobeimatriz/) (@sobeimatriz)
+  - Facebook Oficial: [https://www.facebook.com/sobeimatriz?locale=pt_BR](https://www.facebook.com/sobeimatriz?locale=pt_BR)

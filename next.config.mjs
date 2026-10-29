@@ -60,6 +60,18 @@ const nextConfig = {
       },
     ];
   },
+  rewrites: async () => {
+    return [
+      {
+        source: '/llmtxt',
+        destination: '/llms.txt',
+      },
+      {
+        source: '/llm.txt',
+        destination: '/llms.txt',
+      },
+    ];
+  },
 };
 
 export default nextConfig;

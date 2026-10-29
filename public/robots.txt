@@ -1,37 +1,91 @@
 # robots.txt para https://sobei.org.br
+# Permissões completas para navegação e rastreamento de todas as páginas da SOBEI
 
-# Permissões gerais de indexação
 User-agent: *
 Allow: /
+Disallow:
 
-# Rastreadores de mecanismos de busca
+# Rastreadores de mecanismos de busca convencionais
 User-agent: Googlebot
 Allow: /
+Disallow:
 
 User-agent: Bingbot
 Allow: /
+Disallow:
+
+User-agent: YandexBot
+Allow: /
+Disallow:
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow:
+
+User-agent: Baiduspider
+Allow: /
+Disallow:
 
 # Rastreadores e indexadores de inteligência artificial (LLMs)
 User-agent: GPTBot
 Allow: /
+Disallow:
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow:
 
 User-agent: ClaudeBot
 Allow: /
+Disallow:
+
+User-agent: Claude-Web
+Allow: /
+Disallow:
+
+User-agent: anthropic-ai
+Allow: /
+Disallow:
 
 User-agent: PerplexityBot
 Allow: /
+Disallow:
 
-User-agent: CCBot
+User-agent: Applebot
 Allow: /
+Disallow:
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow:
 
 User-agent: Google-Extended
 Allow: /
+Disallow:
 
-# Localização do Sitemap
+User-agent: CCBot
+Allow: /
+Disallow:
+
+User-agent: FacebookBot
+Allow: /
+Disallow:
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow:
+
+User-agent: Bytespider
+Allow: /
+Disallow:
+
+User-agent: Cohere-ai
+Allow: /
+Disallow:
+
+User-agent: Amazonbot
+Allow: /
+Disallow:
+
+# Localização do Sitemap e Recursos para LLMs
 Sitemap: https://sobei.org.br/sitemap.xml
