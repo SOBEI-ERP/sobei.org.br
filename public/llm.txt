@@ -10,6 +10,8 @@ Fundada por membros da Loja Maçônica Fé, Equilíbrio e Luz nº 270, a SOBEI i
 - [Projetos Sociais](https://sobei.org.br/projetos): Panorama completo dos programas educacionais, capacitação profissional técnica, convivência intergeracional, música erudita e inclusão digital.
 - [Unidades de Atendimento](https://sobei.org.br/unidades): Localização exata, telefones, e-mails diretos, horários de funcionamento, bairros atendidos e infraestrutura das 13 creches e polos da instituição na Zona Sul.
 - [Vagas de Emprego e Trabalhe Conosco](https://sobei.org.br/vagas): Mural de vagas de trabalho abertas na organização nas áreas pedagógica, nutricional, técnica e administrativa com formulário de candidatura direta.
+- [Política de Privacidade e Proteção de Dados (LGPD)](https://sobei.org.br/politica-de-privacidade): Diretrizes de governança e proteção de dados pessoais (Lei nº 13.709/2018), salvaguardas especiais para dados de crianças e adolescentes (ECA) e canais do Encarregado de Dados (DPO).
+- [Termos de Uso](https://sobei.org.br/termos-de-uso): Condições gerais de navegação, direitos de propriedade intelectual sobre marcas e fotos institucionais, regras éticas e canais de integridade.
 
 ## Projetos Sociais da SOBEI
 
@@ -66,10 +68,11 @@ Candidaturas são recebidas digitalmente em: [Portal de Vagas SOBEI](https://sob
 - **Endereço da Sede Central**: Av. Rubens Montanaro de Borba, 477 - Jardim Regis / Cidade Dutra, São Paulo - SP, CEP: 04811-180
 - **Telefone Geral**: +55 (11) 5667-2785
 - **E-mail Institucional**: sobei@sobei.org.br
+- **Encarregado de Dados (DPO) / Privacidade**: privacidade@sobei.org.br
+- **Canal Oficial de Denúncias e Integridade**: https://denuncias.sobei.org.br
 - **Instagram Oficial**: https://www.instagram.com/sobeimatriz/
 - **Facebook Oficial**: https://www.facebook.com/sobeimatriz?locale=pt_BR
 
 ## Versão Completa (Full Text)
 
 - [Conteúdo Completo em Texto para LLMs](https://sobei.org.br/llms-full.txt): Documento unificado com a descrição exaustiva de todas as unidades, vagas, projetos, história e diretrizes institucionais para treinamento e contexto direto de modelos de inteligência artificial.
-
