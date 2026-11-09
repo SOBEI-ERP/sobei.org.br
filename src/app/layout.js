@@ -2,6 +2,7 @@ import "./globals.css";
 import { Inter, Caveat } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CookieBanner from "@/components/CookieBanner";
 import SmoothScroll from "@/components/SmoothScroll";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
@@ -131,6 +132,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
+        <CookieBanner />
         {process.env.VERCEL ? <SpeedInsights /> : null}
       </body>
     </html>

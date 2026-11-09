@@ -31,6 +31,8 @@ export default function Footer() {
               <li><Link href="/projetos" className="footer__link">Nossos Projetos</Link></li>
               <li><Link href="/unidades" className="footer__link">Nossas Unidades</Link></li>
               <li><Link href="/vagas" className="footer__link">Trabalhe Conosco</Link></li>
+              <li><Link href="/politica-de-privacidade" className="footer__link">Política de Privacidade</Link></li>
+              <li><Link href="/termos-de-uso" className="footer__link">Termos de Uso</Link></li>
             </ul>
           </div>
 
@@ -73,7 +75,14 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="footer__bottom">
-          <p>&copy; {new Date().getFullYear()} SOBEI - Sociedade Beneficente Equilíbrio de Interlagos. Todos os direitos reservados.</p>
+          <p className="footer__copyright">&copy; {new Date().getFullYear()} SOBEI - Sociedade Beneficente Equilíbrio de Interlagos. Todos os direitos reservados.</p>
+          <div className="footer__legal-bar">
+            <Link href="/politica-de-privacidade" className="footer__legal-link">Privacidade & LGPD</Link>
+            <span className="footer__legal-separator" aria-hidden="true">•</span>
+            <Link href="/termos-de-uso" className="footer__legal-link">Termos de Uso</Link>
+            <span className="footer__legal-separator" aria-hidden="true">•</span>
+            <a href="https://denuncias.sobei.org.br" target="_blank" rel="noopener noreferrer" className="footer__legal-link">Canal de Denúncias</a>
+          </div>
         </div>
       </div>
     </footer>
