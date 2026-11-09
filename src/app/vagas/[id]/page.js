@@ -254,7 +254,7 @@ export default function VagaDetalhePage() {
       {jobPostingSchema && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema).replace(/</g, '\\u003c') }}
         />
       )}
 

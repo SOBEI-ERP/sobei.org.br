@@ -122,7 +122,7 @@ export default function RootLayout({ children }) {
         <link rel="alternate" type="text/markdown" href="/llms.txt" title="llms.txt" />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdData) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdData).replace(/</g, '\\u003c') }}
         />
       </head>
       <body style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
